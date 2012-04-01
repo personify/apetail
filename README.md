@@ -28,5 +28,7 @@ foo: @agent.domain.foo
 ```  
 
 
-BUT ‘@’ MEANS ‘this’  in CoffeeScript!
+
+**BUT ‘@’ MEANS ‘this’  in CoffeeScript!**
+
 there is no “this”, fuck you
